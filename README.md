@@ -1,4 +1,5 @@
 # Gatsby Trip Carte React Starter eCommerce
+<img src="https://github.com/gispatial/gatsby-tripcarte/blob/master/src/images/store.png" width="100%">
 
 Gatsby starter for creating an eCommerce site using [Moltin eCommerce Api ](https://moltin.com/).
 
