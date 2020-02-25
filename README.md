@@ -11,7 +11,7 @@ This starter originally used Gatsby v1 and has now been updated to v2. The origi
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 
-`gatsby new gatsby-store https://github.com/parmsang/gatsby-starter-ecommerce`
+`gatsby new gatsby-store https://github.com/gispatial/gatsby-tripcarte`
 
 ### Running in development
 
