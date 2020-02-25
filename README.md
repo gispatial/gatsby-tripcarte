@@ -5,8 +5,6 @@ Gatsby starter for creating an eCommerce site using [Moltin eCommerce Api ](http
 
 This starter adapts an [existing](https://github.com/moltin-examples/nextjs-demo-store) NextJS eCommerce starter for [GatsbyJS](https://www.gatsbyjs.org/).
 
-Demo: <https://parmsang.github.io/gatsby-starter-ecommerce/>
-
 This starter originally used Gatsby v1 and has now been updated to v2. The original version can be found in branch "gatsby-v1".
 
 ## Getting started
