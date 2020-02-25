@@ -1,4 +1,4 @@
-# Gatsby TripCart Starter eCommerce
+# Gatsby Trip Carte React Starter eCommerce
 
 Gatsby starter for creating an eCommerce site using [Moltin eCommerce Api ](https://moltin.com/).
 
